@@ -1,4 +1,4 @@
-Using tkinter display various Lissajou figures, Spirpographs and  
+Using tkinter display various Lissajou figures, Spirographs and  
 Damped Pendulum plots in a canvas area.
 
 Uses Python 3. Imports tkinter, math.
